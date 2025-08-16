@@ -1,5 +1,9 @@
 # **TA_DVR**
-Scripts to assist in using Tube Archivist like a DVR
+Scripts to assist in using Tube Archivist like a DVR. I hope you find them useful.
+
+Any issues should not be reported to the Tube Archivist repository.
+
+Note that these scripts are not officially supported by TubeArchivist, and are not part of the TubeArchivist project. They are provided as-is, with no warranty or guarantee of any kind. They may break at any time, and may not work as expected. Use at your own risk.
 
 ## <ins>**Preface:**</ins> 
 These help under a specific set of circumstances. I feel I must explain how I use TA. 
